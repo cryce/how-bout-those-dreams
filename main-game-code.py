@@ -25,3 +25,4 @@ if gender == "Male":
 else:
     print ("You stare blankly into the mirror as a tired, dishevled girl stares back.\nYou sigh as you quickly dry the rest of way off and head back to your room.")
     print ("You flick on the light in your room and see the fairly messy room.\nYou go over to a slightly overflowling closet and try and figure out what to wear today.\nYou find something suitable and get dressed.")
+print ("When you get dressed you head out into a small common room.\n")
